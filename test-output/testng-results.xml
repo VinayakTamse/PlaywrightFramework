@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T09:23:53 IST" name="Default suite" finished-at="2023-06-21T09:26:43 IST" duration-ms="169969">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T09:23:53 IST" name="Default test" finished-at="2023-06-21T09:26:43 IST" duration-ms="169969">
+      <class name="playwrightdemo.testcases.AdminPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:23:54 IST" name="setUp" finished-at="2023-06-21T09:24:11 IST" duration-ms="17779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addUserTest()[pri:1, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:24:11 IST" name="addUserTest" finished-at="2023-06-21T09:24:29 IST" duration-ms="18084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:24:29 IST" name="tearDown" finished-at="2023-06-21T09:25:01 IST" duration-ms="31127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:25:01 IST" name="setUp" finished-at="2023-06-21T09:25:09 IST" duration-ms="8542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchUserTest()[pri:2, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:25:09 IST" name="searchUserTest" finished-at="2023-06-21T09:25:23 IST" duration-ms="13526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUserTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:25:23 IST" name="tearDown" finished-at="2023-06-21T09:25:54 IST" duration-ms="31190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:25:54 IST" name="setUp" finished-at="2023-06-21T09:26:02 IST" duration-ms="8690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteUserTest()[pri:3, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:26:02 IST" name="deleteUserTest" finished-at="2023-06-21T09:26:12 IST" duration-ms="9667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:playwrightdemo.testcases.AdminPageTest@759d26fb]" started-at="2023-06-21T09:26:12 IST" name="tearDown" finished-at="2023-06-21T09:26:43 IST" duration-ms="31294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- playwrightdemo.testcases.AdminPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
